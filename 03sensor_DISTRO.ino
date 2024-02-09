@@ -37,7 +37,7 @@ InfluxDBClient client(INFLUXDB_URL, INFLUXDB_ORG, INFLUXDB_BUCKET, INFLUXDB_TOKE
 // InfluxDBClient client(INFLUXDB_URL, INFLUXDB_DB_NAME);
 
 #define COLLECT_NUMBER  90              // collect number, the collection range is 1-100
-/**
+/*
  * select i2c device address 
  *   OZONE_ADDRESS_0  0x70
  *   OZONE_ADDRESS_1  0x71
