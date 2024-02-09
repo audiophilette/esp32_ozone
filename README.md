@@ -18,6 +18,6 @@ A good cheap, easy to do sensor box is [this one](https://www.youtube.com/watch?
 
 The EPA measures ozone as the maximum of an 8 hour average from 07:00-23:00 local time, and converts 
 In the United States, Ozone concentration is usually reported in a vague "AQI", using the formula here:
-[Ozone ppb => AQI formula](aqi.png)
+![Ozone ppb => AQI formula](aqi.png)
 
 More info on the convulated EPA process is located [here](https://forum.airnowtech.org/t/aqi-calculations-overview-ozone-pm2-5-and-pm10/168)
