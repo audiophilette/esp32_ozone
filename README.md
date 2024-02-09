@@ -1,6 +1,7 @@
 # esp32_ozone
 Use a DFRobot Ozone sensor and an ESP32 arduino module to monitor ozone levels.
 
+Why an [ESP32?](https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html)  Because the [InfluxDB](https://www.influxdata.com/) module that this requires IS ONLY SUPPORTED ON ESP32 and ESP8266 chipsets.  Which is fine, there are 43,893,857,923,485 implementations of them, most are cheap.
 
 I wrote this to help [nitrogen76](https://github.com/nitrogen76/cheapWeather) to make a very simple arduino thing to monitor ozone concentration for his project.
 
